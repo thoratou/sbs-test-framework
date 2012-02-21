@@ -1,0 +1,6 @@
+SBS (or Screen Build System) is a makefile and environment file generation system for C/C++ applications.
+
+SBS has been developed (and still improved) for Screen specific uses, in order to easily follow its dynamic library based architecture. Thanks to its generic design, SBS can be easily used for other C/C++ projects.
+
+This repository contains test framework for SBS integration tests.
+
